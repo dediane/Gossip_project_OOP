@@ -12,7 +12,7 @@ With this application, from the main menu, we can do:
 
 --------------
 
-<img src="https://ibb.co/NyYxD2W">
+<a href="https://imgbb.com/"><img align: center  src="https://i.ibb.co/DRK4cfw/Capture-d-e-cran-2020-10-20-a-13-30-06.png" alt="Capture-d-e-cran-2020-10-20-a-13-30-06" border="0"></a>
 
 -------------
 
